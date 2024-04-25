@@ -1,0 +1,10 @@
+.filterInput {
+  display: block;
+  padding: 12px;
+  border: 1px solid grey;
+  border-radius: 6px;
+  margin-bottom: 12px;
+  box-sizing: border-box;
+  width: 300px;
+  margin: 0 auto;
+}
